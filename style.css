@@ -1,0 +1,47 @@
+.one{
+    color: black;
+    display: flex;
+    font-size: 40px;
+    justify-content: left;
+    font-size: xx-large;
+    font-style: italic;
+  
+}
+.two{
+    color: black;
+    display: flex;
+    font-size: 40px;
+    justify-content: right;
+    font-size: xx-large;
+    font-style: italic;
+}
+.three{
+    color: black;
+    display: flex;
+    font-size: 40px;
+    justify-content: left;
+    font-size: xx-large;
+    font-style: italic;
+    
+}
+.four{
+    color: black;
+    display: flex;
+    font-size: 40px;
+    justify-content: right;
+    font-size: xx-large;
+}
+.five{
+    color: black;
+    display: flex;
+    font-size: 40px;
+    justify-content: right;
+    font-size: xx-large;
+}
+.six{
+    color: black;
+    display: flex;
+    font-size: 40px;
+    justify-content: left;
+    font-size: xx-large;
+}
